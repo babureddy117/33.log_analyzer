@@ -1,0 +1,50 @@
+2024-01-15 08:00:15 - INFO - Server started successfully
+2024-01-15 08:00:16 - INFO - Database connection established
+2024-01-15 08:05:23 - INFO - User login: user123
+2024-01-15 08:10:45 - WARNING - High memory usage detected: 85%
+2024-01-15 08:15:12 - INFO - API request received from 192.168.1.100
+2024-01-15 08:20:33 - ERROR - Failed to connect to external service
+2024-01-15 08:25:01 - INFO - User login: user456
+2024-01-15 08:30:22 - WARNING - Slow query detected: 3.5 seconds
+2024-01-15 08:35:47 - INFO - Cache cleared successfully
+2024-01-15 08:40:11 - ERROR - Database timeout error
+2024-01-15 08:45:29 - CRITICAL - Disk space critically low: 5% remaining
+2024-01-15 08:50:03 - INFO - Backup process started
+2024-01-15 08:55:18 - WARNING - High memory usage detected: 85%
+2024-01-15 09:00:42 - INFO - User login: user789
+2024-01-15 09:05:56 - ERROR - Authentication failed for user: hacker123
+2024-01-15 09:10:14 - INFO - API request received from 192.168.1.101
+2024-01-15 09:15:37 - WARNING - Rate limit exceeded for IP: 192.168.1.102
+2024-01-15 09:20:51 - INFO - User logout: user123
+2024-01-15 09:25:08 - ERROR - Failed to send email notification
+2024-01-15 09:30:22 - INFO - Scheduled task completed
+2024-01-15 09:35:44 - WARNING - SSL certificate expires in 7 days
+2024-01-15 09:40:19 - INFO - User login: user123
+2024-01-15 09:45:33 - ERROR - Payment gateway connection failed
+2024-01-15 09:50:47 - INFO - Database backup completed
+2024-01-15 09:55:02 - CRITICAL - Service unavailable: payment-service
+2024-01-15 10:00:16 - INFO - Server health check passed
+2024-01-15 10:05:31 - WARNING - High CPU usage: 92%
+2024-01-15 10:10:45 - INFO - User login: user456
+2024-01-15 10:15:59 - ERROR - File not found: /data/config.json
+2024-01-15 10:20:13 - INFO - API request received from 192.168.1.100
+2024-01-15 10:25:27 - WARNING - Deprecated API endpoint used
+2024-01-15 10:30:41 - INFO - Cache hit ratio: 95%
+2024-01-15 10:35:55 - ERROR - Database connection pool exhausted
+2024-01-15 10:40:09 - INFO - User logout: user456
+2024-01-15 10:45:23 - WARNING - High memory usage detected: 85%
+2024-01-15 10:50:37 - INFO - Maintenance mode enabled
+2024-01-15 10:55:51 - CRITICAL - Out of memory error
+2024-01-15 11:00:05 - INFO - Server restarted
+2024-01-15 11:05:19 - INFO - All services operational
+2024-01-15 11:10:33 - WARNING - Unusual traffic pattern detected
+2024-01-15 11:15:47 - INFO - User login: user789
+2024-01-15 11:20:01 - ERROR - Redis connection timeout
+2024-01-15 11:25:15 - INFO - Background job completed
+2024-01-15 11:30:29 - WARNING - Queue size exceeds threshold: 1000 items
+2024-01-15 11:35:43 - INFO - User logout: user789
+2024-01-15 11:40:57 - ERROR - Failed to process payment
+2024-01-15 11:45:11 - INFO - API request received from 192.168.1.103
+2024-01-15 11:50:25 - WARNING - Session timeout increased
+2024-01-15 11:55:39 - INFO - Daily report generated
+2024-01-15 12:00:53 - CRITICAL - Security breach attempt detected
